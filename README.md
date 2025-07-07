@@ -20,18 +20,15 @@ Configure your title, name, and enable/disable the prefixer:
 ### ManyChat Interface Integration
 See how the extension seamlessly integrates with ManyChat and applies prefixes:
 
-<img src="2.jpg" alt="ManyChat Interface Demo" width="600">
+## WhatsApp Client Side:
+
+<img src="2.jpg" alt="ManyChat Interface Demo" width="250">
 
 ### Message Example
 **Before**: `Hello, how can I help you?`  
 **After**: `*Support - John*\nHello, how can I help you?`
 
 ## 🛠️ Installation
-
-### From Chrome Web Store
-1. Visit the [Chrome Web Store listing](#) *(coming soon)*
-2. Click "Add to Chrome"
-3. Configure your settings by clicking the extension icon
 
 ### Manual Installation (Development)
 1. Clone this repository
