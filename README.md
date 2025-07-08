@@ -76,40 +76,14 @@ This extension:
 - ✅ No tracking or analytics
 - ✅ No registration required
 
-See our [Privacy Policy](PRIVACY_POLICY.md) for details.
 
-## 🛡️ Terms of Use
-
-By using this extension, you agree to our [Terms of Use](TERMS_OF_USE.md).
-
-## 🐛 Issues & Support
+## 🐛 Issues
 
 Found a bug or have a feature request? Please [open an issue](../../issues).
 
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 Development
-
-### Project Structure
-```
-├── manifest.json          # Extension manifest
-├── content.js             # Main functionality
-├── popup.html             # Settings interface
-├── popup.js               # Settings logic
-├── background.js          # Service worker
-├── icon-*.png             # Icons (16x16, 48x48, 128x128)
-└── docs/                  # Documentation
-    ├── PRIVACY_POLICY.md
-    ├── TERMS_OF_USE.md
-    └── STORE_DESCRIPTIONS.md
-```
-
-### Building for Chrome Web Store
-1. Update version in `manifest.json`
-2. Create ZIP with extension files (exclude docs)
-3. Upload to Chrome Web Store Developer Console
 
 ## 📄 License
 
